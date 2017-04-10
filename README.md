@@ -1,6 +1,6 @@
-MapReduce
+# MapReduce
 
-About the project: The project is to develop a map-reduce solution. In our project we are trying to find out map – reduce solution for maximum number of sales for genre and platform. Our dataset is a subset of Video games data. The data set consist of name,platform,year,genre,publisher,nasales,eusales,jpsales,othersales,globalsales,criticScore,criticCount,userScore,userCount,developer and rating.
+About the project: The project is to develop a map-reduce solution. In our project we are trying to find out map â€“ reduce solution for maximum number of sales for genre and platform. Our dataset is a subset of Video games data. The data set consist of name,platform,year,genre,publisher,nasales,eusales,jpsales,othersales,globalsales,criticScore,criticCount,userScore,userCount,developer and rating.
 
 Getting Started : In order to see the code the following steps need to be followed
 
@@ -22,7 +22,7 @@ https://www.python.org/download/releases/2.6.6/
 
 Create the Virtual Machine:
 
-###Installion of VMWare Download the VMWare from above link and then install by these steps Create a new Virtual machine: Create a new virtual machine by pressing the ‘New’ button: Choose a name, use ‘Type’: ‘Linux’: Press Next Select memory size for the VM. (2048 MB) Press Next Select ‘Use an existing virtual hard drive file’’, click the button to browse to the directory you unzipped the provided VM image and press ‘Create’. Select the machine and click ‘Play virtual machine’ Start the VM!
+###Installion of VMWare Download the VMWare from above link and then install by these steps Create a new Virtual machine: Create a new virtual machine by pressing the â€˜Newâ€™ button: Choose a name, use â€˜Typeâ€™: â€˜Linuxâ€™: Press Next Select memory size for the VM. (2048 MB) Press Next Select â€˜Use an existing virtual hard drive fileâ€™â€™, click the button to browse to the directory you unzipped the provided VM image and press â€˜Createâ€™. Select the machine and click â€˜Play virtual machineâ€™ Start the VM!
 
 How to run the solution
 
