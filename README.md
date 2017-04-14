@@ -33,6 +33,7 @@ In code, to see local mapper.py & reducer.py, type:
 $ ls
 
 To execute (anoop replace **Kalyan** with **anoop**)
+
 $ cd Kalyan
 
 Put a copy of VideoGames.txt into HDFS myinput directory.
