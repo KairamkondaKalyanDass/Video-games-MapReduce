@@ -64,7 +64,7 @@ $ hadoop fs -ls
 
 $ hadoop fs -ls joboutput
 
-*To get results out of hadoop, use get:*
+*To get results out of hadoop, use get:* (for anoop replace **results.txt** with **intermediateResults.txt**)
 
 $ hadoop fs -get joboutput/part-00000 results.txt
 
