@@ -32,6 +32,7 @@ In code, to see local mapper.py & reducer.py, type:
 
 $ ls
 
+To execute (anoop replace **Kalyan** with **anoop**)
 $ cd Kalyan
 
 Put a copy of VideoGames.txt into HDFS myinput directory.
@@ -62,14 +63,15 @@ $ hadoop fs -ls
 
 $ hadoop fs -ls joboutput
 
-To get results out of hadoop, use get:
+*To get results out of hadoop, use get:*
 
 $ hadoop fs -get joboutput/part-00000 results.txt
 
-Check for a local copy with ls:
+*Check for a local copy with ls:*
 
 $ ls
 
+*Result*
 mapper.py reducer.py results.txt
 
 $ sort -nrk 2,2 results.txt completeOutput.txt
@@ -80,5 +82,5 @@ mapper.py reducer.py results.txt completeOutput.txt
 
 completeOutput.txt will have the results for our map reduce problem
 
-###Final Results (Kalyan)
+**Final Results** ** *(Kalyan)* **
 ![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Kalyan%20results.JPG)
