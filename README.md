@@ -27,7 +27,7 @@ Create the Virtual Machine:
 **Data Source**
 https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
-* *duplicate input dataset is in the "Kalyan/VideoGames.txt" and "anoop/VideoGames.txt"
+* *duplicate input dataset is in the "Kalyan/VideoGames.txt" and "anoop/VideoGames.txt"*
 
 **Download the Video Games dataset and convert .xlsx to tab delimited .txt file by just following these steps below**
 1. open downloaded Video_Games_Sales_as_at_22_Dec_2016.xlsx file
