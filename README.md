@@ -103,7 +103,7 @@ mapper.py reducer.py results.txt completeOutput.txt
 mapper.py reducer.py intermediateResults.txt completeResults.txt
 
 
-*completeOutput.txt and completeResults.txt will have the results from our map reduce problem*
+***completeOutput.txt and completeResults.txt will have the results from our map reduce problem***
 
 **Final Results**
 
