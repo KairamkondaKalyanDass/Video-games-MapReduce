@@ -72,16 +72,28 @@ $ hadoop fs -get joboutput/part-00000 results.txt
 
 $ ls
 
-*Result*
+*kalyan Result*
+
 mapper.py reducer.py results.txt
 
-$ sort -nrk 2,2 results.txt completeOutput.txt
+*Anoop Results*
+
+mapper.py reducer.py intermediateResults.txt
+
+$ sort -nrk 2,2 results.txt completeOutput.txt (for anoop replace **completeOutput.txt** with **completeResults.txt**)
 
 $ ls
 
+*kalyan Result*
+
 mapper.py reducer.py results.txt completeOutput.txt
 
-completeOutput.txt will have the results for our map reduce problem
+*Anoop Results*
+
+mapper.py reducer.py intermediateResults.txt completeResults.txt
+
+
+completeOutput.txt and completeResults.txt will have the results for our map reduce problem
 
 **Final Results**  *(Kalyan)* 
 ![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Kalyan%20results.JPG)
