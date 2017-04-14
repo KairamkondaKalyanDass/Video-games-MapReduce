@@ -103,5 +103,9 @@ mapper.py reducer.py intermediateResults.txt completeResults.txt
 
 completeOutput.txt and completeResults.txt will have the results from our map reduce problem
 
-**Final Results**  *(Kalyan)* 
+**Final Results
+*Graph for maximum number of sales for genre* 
 ![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Kalyan%20results.JPG)
+*
+* *Graph for maximum number of sales for genre* 
+![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Anoop%20results.JPG)
