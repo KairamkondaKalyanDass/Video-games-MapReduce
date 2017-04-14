@@ -82,5 +82,5 @@ mapper.py reducer.py results.txt completeOutput.txt
 
 completeOutput.txt will have the results for our map reduce problem
 
-**Final Results** ** *(Kalyan)* **
+**Final Results**  *(Kalyan)* 
 ![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Kalyan%20results.JPG)
