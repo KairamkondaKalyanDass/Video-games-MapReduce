@@ -11,7 +11,7 @@ oldKey = None
 #
 # All the sales for a particular store will be presented,
 # then the key will change and we'll be dealing with the next store
-
+#Input Nintendo         165.07 (Key Value pair)
 for line in sys.stdin:
     data_mapped = line.strip().split("\t")
     if len(data_mapped) != 2:
