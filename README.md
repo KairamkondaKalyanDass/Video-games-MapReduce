@@ -110,5 +110,5 @@ mapper.py reducer.py intermediateResults.txt completeResults.txt
 *Graph for maximum number of sales for genre* 
 ![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Kalyan%20results.JPG)
 
-*Graph for maximum number of sales for genre* 
+*Graph for maximum number of sales for platform* 
 ![alt tag](https://github.com/KairamkondaKalyanDass/Video-games-MapReduce/blob/master/images/Anoop%20results.JPG)
